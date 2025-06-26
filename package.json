@@ -1,0 +1,7 @@
+{
+  "name": "docx-generator",
+  "type": "module",
+  "dependencies": {
+    "docx": "^8.0.0"
+  }
+}
